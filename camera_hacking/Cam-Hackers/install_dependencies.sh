@@ -3,5 +3,3 @@ sudo apt-get install git python3 python3-pip -y
 pip3 install requests
 pip3 install colorama
 git clone https://github.com/AngelSecurityTeam/Cam-Hackers
-cd Cam-Hackers
-python3 cam-hackers.py

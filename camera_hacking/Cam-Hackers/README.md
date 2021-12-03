@@ -5,5 +5,6 @@
 Just run:
 
 ```shell
-bash ./access_ccvt.sh
+bash ./install_dependencies.sh
+bash ./run.sh
 ```
